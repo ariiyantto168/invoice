@@ -22,15 +22,15 @@
                     <th>No</th>
                     <th>Name</th>
                     <th>Invoice Date</th>
-                    <th>Due date</th>
-                    <th>Invoice number</th>
+                    <th>Due Date</th>
+                    <th>Invoice Number</th>
                     <th>Invoice Status</th>
-                    <th>Billing to</th>
-                    <th>company</th>
-                    <th>tittle</th>
-                    <th>price</th>
-                    <th>diskon price</th>
-                    <th>total</th>
+                    <th>Billing To</th>
+                    <th>Company</th>
+                    <th>Tittle</th>
+                    <th>Price</th>
+                    <th>Discount Price</th>
+                    <th>Total</th>
                     <th></th>
                 </tr>
             </thead>

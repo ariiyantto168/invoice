@@ -9,7 +9,7 @@
 <section class="content">
     <div class="box">
         <div class="box-header with-border">
-            <h3 class="box-title">Invoice Payements</h3>
+            <h3 class="box-title">Invoice Payments</h3>
          </div>
     </div>
     <div class="box-body table-responsive">
@@ -19,15 +19,15 @@
                     <th>No</th>
                     <th>Name</th>
                     <th>Invoice Date</th>
-                    <th>Due date</th>
+                    <th>Due Date</th>
                     <th>Invoice number</th>
                     <th>Invoice Status</th>
-                    <th>Billing to</th>
-                    <th>company</th>
-                    <th>tittle</th>
-                    <th>price</th>
-                    <th>diskon price</th>
-                    <th>total</th>
+                    <th>Billing To</th>
+                    <th>Company</th>
+                    <th>Tittle</th>
+                    <th>Price</th>
+                    <th>Discount Price</th>
+                    <th>Total</th>
                     <th></th>
                 </tr>
             </thead>

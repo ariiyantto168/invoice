@@ -22,7 +22,7 @@
 
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">name</label>
+            <label class="">Name</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->name}}</label>
@@ -49,7 +49,7 @@
         
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">invoices number</label>
+            <label class="">Invoices Number</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->invoicesnumber}}</label>
@@ -58,7 +58,7 @@
 
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">invoices status</label>
+            <label class="">Invoices Status</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->invoicesstatus}}</label>
@@ -67,7 +67,7 @@
 
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">billing to</label>
+            <label class="">Billing To</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->billingto}}</label>
@@ -85,7 +85,7 @@
 
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">Title</label>
+            <label class="">Tittle</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->tittle}}</label>
@@ -103,7 +103,7 @@
 
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">Diskon</label>
+            <label class="">Discount</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->pricenexts}}</label>
