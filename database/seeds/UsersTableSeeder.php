@@ -24,8 +24,8 @@ class UsersTableSeeder extends Seeder
             'updated_at' => date('Y-m-d H:i:s'),
           ],
           [
-            'name' => 'M aries Budi sanjaya',
-            'email' => '081341557945',
+            'name' => 'M aries Budi jaya',
+            'email' => 'rakgroupserver@gmail.com',
             'role' => '1',
             'role_type' => 'LD',
             'password' => bcrypt('123456'),
