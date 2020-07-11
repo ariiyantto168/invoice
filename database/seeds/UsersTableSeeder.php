@@ -25,7 +25,7 @@ class UsersTableSeeder extends Seeder
           ],
           [
             'name' => 'M Aries Budi Indra jaya',
-            'email' => 'rakgroupserver@gmail.com',
+            'email' => '081341557945',
             'role' => '1',
             'role_type' => 'LD',
             'password' => bcrypt('rakserver2019'),
