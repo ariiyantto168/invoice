@@ -28,7 +28,7 @@ class UsersTableSeeder extends Seeder
             'email' => 'rakgroupserver@gmail.com',
             'role' => '1',
             'role_type' => 'LD',
-            'password' => bcrypt('123456'),
+            'password' => bcrypt('rakserver2019'),
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s'),
           ],
