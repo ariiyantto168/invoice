@@ -110,7 +110,7 @@
                 </div>
 
                 <div class="form-group">
-                  <label class="col-sm-2 control-label">diskon pice</label>
+                  <label class="col-sm-2 control-label">discount price</label>
                   <div class="col-sm-5">
                     <!-- {{-- name:name untuk melempar controller ke database --}} -->
                     <input type="text" class="form-control" placeholder="price diskon" name="pricenexts" required>

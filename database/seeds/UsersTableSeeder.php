@@ -24,7 +24,7 @@ class UsersTableSeeder extends Seeder
             'updated_at' => date('Y-m-d H:i:s'),
           ],
           [
-            'name' => 'M Aries Budi Indra jaya',
+            'name' => 'M Aries Budi Indra Jaya',
             'email' => '081341557945',
             'role' => '1',
             'role_type' => 'LD',

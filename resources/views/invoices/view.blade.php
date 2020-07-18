@@ -1,11 +1,5 @@
 <section class="content-header">
-  <h1>Details  Pembelian</h1>
-  <ol class="breadcrumb">
-    <li><a href="{{url('/home')}}"><i class="fa fa-dashboard"></i> Home</a></li>
-    <li class="active"><a href="{{url('/orders')}}"><span class="glyphicon glyphicon-tasks"></span> View History</a></li>
-    <li class="active"><i class="fa fa-eye"></i> Details</li>
-
-  </ol>
+  <h1>Details  Invoice</h1>
 </section>
 
 <!-- Main content -->
@@ -49,7 +43,7 @@
         
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">Invoices Number</label>
+            <label class="">Invoice Number</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->invoicesnumber}}</label>
@@ -58,7 +52,7 @@
 
         <div class="form-group">
           <div class="col-sm-2 control-label">
-            <label class="">Invoices Status</label>
+            <label class="">Invoice Status</label>
           </div>
           <div class="col-sm-10">
             <label class="">: {{$invoices->invoicesstatus}}</label>
