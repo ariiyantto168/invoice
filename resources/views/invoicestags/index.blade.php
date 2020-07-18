@@ -20,7 +20,7 @@
                     <th>Name</th>
                     <th>Invoice Date</th>
                     <th>Due Date</th>
-                    <th>Invoice number</th>
+                    <th>Invoice Number</th>
                     <th>Invoice Status</th>
                     <th>Billing To</th>
                     <th>Company</th>
